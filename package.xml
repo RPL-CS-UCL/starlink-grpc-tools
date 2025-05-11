@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>starlink_grpc_tools</name>
+  <version>0.0.0</version>
+  <description>Tools for the RPL-RoboHike Project</description>
+
+  <maintainer email="xxx@gmail.com">Boyi Liu</maintainer>
+  <author email="xxx@gmail.com">Boyi Liu</author>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
+
+</package>
